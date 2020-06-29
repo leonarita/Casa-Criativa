@@ -5,7 +5,9 @@
 
 ## Projeto fornecido pela empresa RocketSeat.
 
-Nessa semana, foi desenvolvida uma aplicação web integrando backend e frontend. A linguagem de programação utilizada foi o **`Javascript`**.
+Nessa semana, foi desenvolvida uma aplicação web integrando backend e frontend. 
+<br>
+A linguagem de programação utilizada foi o **`Javascript`**.
 
 <br>
 <img src="/uploads/foto2.png">
@@ -13,7 +15,9 @@ Nessa semana, foi desenvolvida uma aplicação web integrando backend e frontend
 
 ### 1. Frontend
 
-Para o frontend, foram utilizadas `HTML`, `CSS` e `Javascript`. Possui basicamente 3 telas: a tela inicial, a tela de cadastro de ideias e a tela de listagem de ideias.
+Para o frontend, foram utilizadas `HTML`, `CSS` e `Javascript`. 
+<br>
+Possui basicamente 3 telas: a tela inicial, a tela de cadastro de ideias e a tela de listagem de ideias.
 
 <br>
 <img src="/uploads/foto1.png">
