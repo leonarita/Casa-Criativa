@@ -17,7 +17,10 @@ A linguagem de programação utilizada foi o **`Javascript`**.
 
 Para o frontend, foram utilizadas `HTML`, `CSS` e `Javascript`. 
 <br>
-Possui basicamente 3 telas: a tela inicial, a tela de cadastro de ideias e a tela de listagem de ideias.
+Possui basicamente 3 telas: 
+  1. Tela inicial;
+  2. Tela de cadastro de ideias;
+  3. Tela de listagem de ideias.
 
 <br>
 <img src="/uploads/foto1.png">
