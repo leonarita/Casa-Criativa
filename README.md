@@ -3,7 +3,7 @@
 <br>
 <img src="/public/logo.png">
 
-## Projeto fornecido pela empresa RocketSeat.
+## Projeto fornecido em um workshop da empresa RocketSeat.
 
 Nessa semana, foi desenvolvida uma aplicação web integrando backend e frontend. 
 <br>
